@@ -29,13 +29,13 @@ body{
 
 .heading-content{
     position: absolute;
-    top: 40%;
+    top: 30%;
     width: 100%;
     max-width: 100%;
 }
 
 .heading-content h5{
-    font-size: 4em;
+    font-size: 2em;
     font-weight: 300;
     color: seashell;
     font-family: 'Lato', sans-serif;
@@ -43,7 +43,7 @@ body{
 }
 
 .heading-content h1{
-    font-size: 5em;
+    font-size: 3em;
     font-weight: 600;
     color: seashell;
     font-family: 'Lato', sans-serif;
